@@ -1,0 +1,23 @@
+# Entorno virtual
+venv/
+.venv/
+
+# Configuración del editor
+.vscode/
+.idea/
+
+# Base de datos local
+db.sqlite3
+
+# Archivos de entorno
+.env
+
+# Caché de Python
+__pycache__/
+*.py[cod]
+
+# Archivos de migración (opcional)
+**/migrations/*
+
+# Archivos de sistema operativo (MacOs)
+.DS_Store
